@@ -1,6 +1,6 @@
 # Catalyst Releases
 
-Pre-built binaries for [Catalyst](https://github.com/defendend/catalyst) — AI-powered coding agent CLI with multi-provider LLM support.
+Pre-built binaries for [Catalyst](https://github.com/defendend/catalyst-releases) — AI-powered coding agent CLI with multi-provider LLM support.
 
 ## Installation
 
@@ -13,7 +13,7 @@ brew install catalyst
 
 ### Manual Download
 
-Download the archive for your platform from the [latest release](https://github.com/defendend/catalyst-releases/releases/latest), extract, and place the `catalyst` binary in your `$PATH`.
+Download the archive for your platform from the [latest release](https://github.com/defendend/catalyst-releases-releases/releases/latest), extract, and place the `catalyst` binary in your `$PATH`.
 
 | Platform | Archive |
 |----------|---------|
@@ -43,4 +43,4 @@ GLM (Zhipu AI), Kimi (Moonshot), DeepSeek, Ollama (local models), OpenAI-compati
 
 ## More Information
 
-See the [main repository](https://github.com/defendend/catalyst) for full documentation.
+See the [main repository](https://github.com/defendend/catalyst-releases) for full documentation.
